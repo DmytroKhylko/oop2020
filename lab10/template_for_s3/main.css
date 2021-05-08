@@ -1,3 +1,29 @@
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* background: 70bg32; */
+    background-repeat:no-repeat;
+    /* background: linear-gradient( #e66465, #9198e5); */
+    /* background: -webkit-linear-gradient( to left top, blue, red);
+    background: -moz-linear-gradient( to left top, blue, red);
+    background: -ms-linear-gradient( to left top, blue, red);
+    background: -o-linear-gradient( to left top, blue, red); */
+    background: linear-gradient(#FCBB6D, #D8737F, #AB6C82, #685D79, #475C7A); 
+}
 #greeting{
+    filter: drop-shadow(0 0 4rem rgba(87, 87, 87, 0.842));
+    margin: 5%;
+    height: 80vh;
+    background-color: #AB6C82;
     text-align: center;
+    border-radius: 60px;
+}
+#greeting_text{
+    padding-top: 30vh;
+}
+#greeting_text_1{
+    font-size: 300%;
 }
