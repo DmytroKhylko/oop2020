@@ -9,12 +9,14 @@ class QuizBrain:
             correct_answers = 0
             print("Hello dear player! It's time to test you knowledge in computer field\n\
 You'll be asked 10 questions where you have to answer yes/true/+ or no/false/-\n\
-To exit game press Ctrl+C\n")
+To exit game type exit\n")
             i = 1
             for q in self.questions:
                 print("Question {}: {}".format(i, q.question))
                 i += 1
                 answer = self.player_answer()
+                if answer == "exit":
+                    break
                 if answer in self.answer_options[q.correct_answer]:
                     correct_answers += 1
                     print("Correct!")
@@ -30,6 +32,8 @@ To exit game press Ctrl+C\n")
         while error:
             try:
                 answer = input("Your answer: ").lower()
+                if answer == "exit":
+                    return answer
                 if answer not in self.answer_options['True'] + self.answer_options['False']:
                     raise ValueError("Incorrect answer word. Please type yes/true/+ for True or no/false/- for False")
                 return answer

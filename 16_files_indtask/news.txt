@@ -1,0 +1,126 @@
+Новина №1
+
+Назва: Unlocking the Next Generation of Computer Technology: New Nanoscale Device for Spintronics
+Опис: Spin waves could unlock the next generation of computer technology, a new component allows physicists to control them. Researchers at Aalto University have developed a…
+Посилання: https://scitechdaily.com/unlocking-the-next-generation-of-computer-technology-new-nanoscale-device-for-spintronics/
+
+********************
+Новина №2
+
+Назва: Machine Learning at Speed: Optimization Code Increases Performance by 5x
+Опис: Optimizing network communication accelerates training in large-scale machine-learning models. Inserting lightweight optimization code in high-speed network devices has enabled a KAUST-led collaboration to increase the…
+Посилання: https://scitechdaily.com/machine-learning-at-speed-optimization-code-increases-performance-by-5x/
+
+********************
+Новина №3
+
+Назва: “I Know What You Bought at Chipotle” – New Algorithm Identifies Purchases From Only the Bill Total
+Опис: A new algorithm offers insights into consumer spending by identifying what someone purchased from only the bill total. At first, it seemed like the algorithm…
+Посилання: https://scitechdaily.com/i-know-what-you-bought-at-chipotle-new-algorithm-identifies-purchases-from-only-the-bill-total/
+
+********************
+Новина №4
+
+Назва: Technological Leap for Holograms: Real “Doodles of Light” in Real-Time
+Опис: Researchers from Tokyo Metropolitan University have devised and implemented a simplified algorithm for turning freely drawn lines into holograms on a standard desktop CPU. They…
+Посилання: https://scitechdaily.com/technological-leap-for-holograms-real-doodles-of-light-in-real-time/
+
+********************
+Новина №5
+
+Назва: New Deepfake Spotting Tool Proves 94% Effective – Here’s the Secret of Its Success
+Опис: University at Buffalo deepfake spotting tool proves 94% effective with portrait-like photos, according to study. University at Buffalo computer scientists have developed a tool that…
+Посилання: https://scitechdaily.com/new-deepfake-spotting-tool-proves-94-effective-heres-the-secret-of-its-success/
+
+********************
+Новина №6
+
+Назва: 2,000-Year-Old Greek Astronomical Calculator: Experts Recreate a Mechanical Cosmos for the World’s First Computer
+Опис: Researchers at UCL have solved a major piece of the puzzle that makes up the ancient Greek astronomical calculator known as the Antikythera Mechanism, a…
+Посилання: https://scitechdaily.com/2000-year-old-greek-astronomical-calculator-experts-recreate-a-mechanical-cosmos-for-the-worlds-first-computer/
+
+********************
+Новина №7
+
+Назва: Researchers Develop Speedier Network Analysis to Boost Recommendation Algorithms and Internet Search
+Опис: Graphs — data structures that show the relationship among objects — are highly versatile. It’s easy to imagine a graph depicting a social media network’s…
+Посилання: https://scitechdaily.com/researchers-develop-speedier-network-analysis-to-boost-recommendation-algorithms-and-internet-search/
+
+********************
+Новина №8
+
+Назва: Encrypted Quantum Computing: When Ignorance Is Wanted
+Опис: Quantum technologies for computers open up new concepts of preserving the privacy of input and output data of a computation. Scientists from the University of…
+Посилання: https://scitechdaily.com/encrypted-quantum-computing-when-ignorance-is-wanted/
+
+********************
+Новина №9
+
+Назва: “Multiplying” Light Signals Could Be Key to Ultra-Powerful Optical Computers
+Опис: New type of optical computing could solve highly complex problems that are out of reach for even the most powerful supercomputers. An important class of…
+Посилання: https://scitechdaily.com/multiplying-light-signals-could-be-key-to-ultra-powerful-optical-computers/
+
+********************
+Новина №10
+
+Назва: Computer Scientists Create Fake Videos That Fool State-of-the-Art Deepfake Detectors
+Опис: Systems designed to detect deepfakes — videos that manipulate real-life footage via artificial intelligence — can be deceived, computer scientists showed for the first time…
+Посилання: https://scitechdaily.com/computer-scientists-create-fake-videos-that-fool-state-of-the-art-deepfake-detectors/
+
+********************
+Новина №11
+
+Назва: A Black Computing Pioneer Takes His Place in Technology History at MIT
+Опис: A brief history of a 1950s photo featuring Joseph Thompson, one of the original operators of MIT’s groundbreaking Whirlwind computer. The caption on a black-and-white…
+Посилання: https://scitechdaily.com/a-black-computing-pioneer-takes-his-place-in-technology-history-at-mit/
+
+********************
+Новина №12
+
+Назва: MIT’s New Neural Network: “Liquid” Machine-Learning System Adapts to Changing Conditions
+Опис: The new type of neural network could aid decision making in autonomous driving and medical diagnosis. MIT researchers have developed a type of neural network…
+Посилання: https://scitechdaily.com/mits-new-neural-network-liquid-machine-learning-system-adapts-to-changing-conditions/
+
+********************
+Новина №13
+
+Назва: Quantum Computer Breakthrough: New Blueprint for Better, Faster Qubits
+Опис: Researchers at the Paul Scherrer Institute PSI have put forward a detailed plan of how faster and better defined quantum bits — qubits — can…
+Посилання: https://scitechdaily.com/quantum-computer-breakthrough-new-blueprint-for-better-faster-qubits/
+
+********************
+Новина №14
+
+Назва: New MIT Social Intelligence Algorithm Helps Build Machines That Better Understand Human Goals
+Опис: A new algorithm capable of inferring goals and plans could help machines better adapt to the imperfect nature of human planning. In a classic experiment…
+Посилання: https://scitechdaily.com/new-mit-social-intelligence-algorithm-helps-build-machines-that-better-understand-human-goals/
+
+********************
+Новина №15
+
+Назва: How Quantum Computers Could Usher In a Golden Age of Computing Power
+Опис: Explained: Quantum engineering Quantum computers could usher in a golden age of computing power, solving problems intractable on today’s machines. Since the 1940s, classical computers…
+Посилання: https://scitechdaily.com/how-quantum-computers-could-usher-in-a-golden-age-of-computing-power/
+
+********************
+Новина №16
+
+Назва: Simulating Evolution to Understand a Hidden Genetic Switch
+Опис: Some organisms evolve an internal switch that can remain hidden for generations until stress flicks it on. Computer simulations of cells evolving over tens of…
+Посилання: https://scitechdaily.com/simulating-evolution-to-understand-a-hidden-genetic-switch/
+
+********************
+Новина №17
+
+Назва: Important Milestone in the Creation of a Quantum Computer That Uses Transistors As Qubits
+Опис: One of the obstacles for progress in the quest for a working quantum computer has been that the working devices that go into a quantum…
+Посилання: https://scitechdaily.com/important-milestone-in-the-creation-of-a-quantum-computer-that-uses-transistors-as-qubits/
+
+********************
+Новина №18
+
+Назва: Graduate Student’s BADASS Code Has Astronomical Benefits
+Опис: An astro-statistics course University of California, Riverside, graduate student Remington O. Sexton took three years ago taught him techniques that led him to develop free,…
+Посилання: https://scitechdaily.com/graduate-students-badass-code-has-astronomical-benefits/
+
+********************
